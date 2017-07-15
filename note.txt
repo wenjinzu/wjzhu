@@ -3,6 +3,9 @@ vs Code与Git/Github 源码控制：
  官网: https://git-scm.com/
   设置环境变量，确保任意路径可以访问git
 
+  $ git config --global user.name "XJ"
+$ git config -- global user.email "417724434@qq.com"
+
   2.任意路径下创建文件夹:Gitdemo
   vs code 设置 Gitdemo 为当前工作目录
 
@@ -11,3 +14,9 @@ vs Code与Git/Github 源码控制：
   5.在上方有提交和刷新按钮，下拉菜单里有更多选项
   全部或者单个文件都可以选择暂存或者清理掉
   6.点击提交，在本地创建了一个代码仓库
+  
+   修改文件后保存,点击右上角 打开更改(上次提交后到保存时的文件对比)
+   git 
+
+  git命令列表
+  ctrl + shift+p 输入git 
